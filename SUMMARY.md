@@ -8,4 +8,11 @@
     * [Faefolk](characters-1/ancestries/faefolk.md)
     * [Humanfolk](characters-1/ancestries/humanfolk.md)
     * [Otherfolk](characters-1/ancestries/otherfolk.md)
+  * [Abilities](characters-1/abilities/README.md)
+    * [The ability grid](characters-1/abilities/the-ability-grid.md)
+    * [Movement](characters-1/abilities/movement.md)
+    * [Senses](characters-1/abilities/senses.md)
+    * [Body abilities](characters-1/abilities/body-abilities.md)
+    * [Mental abilities](characters-1/abilities/mental-abilities.md)
+    * [Sense abilities](characters-1/abilities/sense-abilities.md)
 
