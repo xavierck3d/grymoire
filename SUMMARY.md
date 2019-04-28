@@ -7,4 +7,5 @@
     * [Beastfolk](characters-1/ancestries/beastfolk.md)
     * [Faefolk](characters-1/ancestries/faefolk.md)
     * [Humanfolk](characters-1/ancestries/humanfolk.md)
+    * [Otherfolk](characters-1/ancestries/otherfolk.md)
 

@@ -1,8 +1,6 @@
 # Stats
 
-### Stats
-
-Players roll a number of d6 equal to their character’s proficiency in a given stat whenever they face a challenge. The GM determines which stat a challenge will use. As a character gains proficiency in certain areas, a corresponding stat will go up to reflect that they are more capable in that area.
+Whenever they face a challenge, players roll a number of d6 equal to their character’s proficiency in a given stat. The GM determines which stat a challenge will use. As a character gains proficiency in certain areas, a corresponding stat will go up to reflect that they are more capable in that area.
 
 Higher stats give opportunities to roll more dice for challenges that rely on those stats, making players more likely to succeed.
 
