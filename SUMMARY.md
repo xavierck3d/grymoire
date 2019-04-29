@@ -18,5 +18,12 @@
 * [Gameplay](gameplay/README.md)
   * [Dice](gameplay/dice.md)
   * [Checks, Challenges, Turns, and Rounds](gameplay/untitled.md)
-* [Status effects](status-effects.md)
+  * [Status effects](gameplay/status-effects.md)
+* [Equipment](equipment/README.md)
+  * [Currency](equipment/currency.md)
+  * [Mundane equipment](equipment/mundane-equipment/README.md)
+    * [Armor](equipment/mundane-equipment/armor.md)
+    * [Common items](equipment/mundane-equipment/untitled.md)
+    * [Weapons](equipment/mundane-equipment/weapons.md)
+  * [Mounts](equipment/mounts.md)
 

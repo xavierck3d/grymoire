@@ -10,3 +10,9 @@ After picking your character’s stats and ancestry, the final step is selecting
 
 Once your character’s stats, ancestry, and spellcasting method have been determined, gameplay can begin.
 
+{% page-ref page="stats-1.md" %}
+
+{% page-ref page="ancestries/" %}
+
+{% page-ref page="abilities/" %}
+
