@@ -177,19 +177,14 @@ Insecta come in a variety of shapes and sizes, but the most common types are ant
 Your inscta ancestry grants the following statistics:
 
 > Size: small or medium
->
 > Speed: 10m walk/20m run/10m swim
->
 > Height: 0.5 m-2m
->
 > Weight: 20kg-145kg
->
 > Natural senses: sight, smell, sound, taste, touch
 
 Your insecta ancestry allows the following special abilities:
 
 > Bloodhound’s Nose
->
 > Discerning Palate
 
 **Formic \(ant folk\)**
