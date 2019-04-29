@@ -26,4 +26,5 @@
     * [Common items](equipment/mundane-equipment/untitled.md)
     * [Weapons](equipment/mundane-equipment/weapons.md)
   * [Mounts](equipment/mounts.md)
+* [Spellcasting](spellcasting.md)
 

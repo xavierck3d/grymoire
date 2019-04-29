@@ -1,6 +1,6 @@
 # Weapons
 
-#### Short Knives
+### Short Knives
 
 | Type | Cost | Weight | Damage | Properties |
 | :--- | :--- | :--- | :--- | :--- |
@@ -11,7 +11,7 @@
 | Push Dagger | 4g | TODO | 2d6 piercing | TODO |
 | Table Knife | 1g | TODO | 1d6-1 piercing | TODO |
 
-#### Long Knives
+### Long Knives
 
 | Type | Cost | Weight | Damage | Properties |
 | :--- | :--- | :--- | :--- | :--- |
@@ -23,7 +23,7 @@
 | Tanto | 15g | TODO | TODO | TODO |
 | Trench Knife | 4g | TODO | TODO | TODO |
 
-#### Light Swords
+### Light Swords
 
 | Type | Cost | Weight | Damage | Properties |
 | :--- | :--- | :--- | :--- | :--- |
@@ -35,7 +35,7 @@
 | Rapier | TODO | TODO | TODO | TODO |
 | Wakizashi | TODO | TODO | TODO | TODO |
 
-#### Medium Swords
+### Medium Swords
 
 | Type | Cost | Weight | Damage | Properties |
 | :--- | :--- | :--- | :--- | :--- |
@@ -48,7 +48,7 @@
 | Shamshir | TODO | TODO | TODO | TODO |
 | Yatagan | TODO | TODO | TODO | TODO |
 
-#### Heavy Swords
+### Heavy Swords
 
 | Type | Cost | Weight | Damage | Properties |
 | :--- | :--- | :--- | :--- | :--- |
@@ -60,7 +60,7 @@
 | Jian | TODO | TODO | TODO | TODO |
 | Zweihänder | TODO | TODO | TODO | TODO |
 
-#### One-Handed Bludgeoning Weapons
+### One-Handed Bludgeoning Weapons
 
 | Type | Cost | Weight | Damage | Properties |
 | :--- | :--- | :--- | :--- | :--- |
@@ -83,7 +83,7 @@
 | War Hammer | TODO | TODO | TODO | TODO |
 | Yawara | TODO | TODO | TODO | TODO |
 
-#### Two-Handed Bludgeoning Weapons
+### Two-Handed Bludgeoning Weapons
 
 | Type | Cost | Weight | Damage | Properties |
 | :--- | :--- | :--- | :--- | :--- |
@@ -96,7 +96,7 @@
 | Quarterstaff | TODO | TODO | TODO | TODO |
 | Shinai | TODO | TODO | TODO | TODO |
 
-#### Bows
+### Bows
 
 | Type | Cost | Weight | Damage | Properties |
 | :--- | :--- | :--- | :--- | :--- |
@@ -109,7 +109,7 @@
 | Light Crossbow | TODO | TODO | TODO | TODO |
 | Heavy Crossbow | TODO | TODO | TODO | TODO |
 
-#### Short Guns
+### Short Guns
 
 | Type | Cost | Weight | Damage | Properties |
 | :--- | :--- | :--- | :--- | :--- |
@@ -118,7 +118,7 @@
 | Pepper-Box | TODO | TODO | TODO | TODO |
 | Pistol | TODO | TODO | TODO | TODO |
 
-#### Siege Equipment
+### Siege Equipment
 
 | Type | Cost | Weight | Damage | Properties |
 | :--- | :--- | :--- | :--- | :--- |
@@ -130,7 +130,7 @@
 | Bombard | TODO | TODO | TODO | TODO |
 | Mortar | TODO | TODO | TODO | TODO |
 
-#### Spears, Lances, and Polearms
+### Spears, Lances, and Polearms
 
 | Type | Cost | Weight | Damage | Properties |
 | :--- | :--- | :--- | :--- | :--- |
@@ -142,7 +142,7 @@
 | TODO | TODO | TODO | TODO | TODO |
 | TODO | TODO | TODO | TODO | TODO |
 
-#### Special Weapons
+### Special Weapons
 
 | Type | Cost | Weight | Damage | Properties |
 | :--- | :--- | :--- | :--- | :--- |

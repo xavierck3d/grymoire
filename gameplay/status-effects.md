@@ -23,3 +23,7 @@ Certain actions and incidents can cause various effects on player characters and
 | Sprinting | Sprinting creatures are unable to take other actions on their turn and their movement speed is doubled. |
 | Stunned | Stunned creatures cannot move or take actions for a turn, and their Resilience stat is halved. |
 
+### 
+
+### 
+

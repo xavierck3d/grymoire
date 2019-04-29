@@ -10,7 +10,7 @@ Feral beastfolk usually look like a roughly even mix of human and animal traits.
 
 Wild beastfolk are the most animalistic of all beastfolk, and can often be confused with their animal counterparts. They tend to look almost identical to animals, though they tend to walk upright, and are just as intelligent as other humanoids. Wild individuals often feel comfortable in the same environments as their animal counterparts, and sometimes leave society to live among their animal cousins. Wild avian, squamata, and others which resemble smaller creatures tend to be a little shorter than average human height.
 
-### **Ursid \(bear folk\)**
+## **Ursid \(bear folk\)**
 
 Ursid share characteristics with bears of all types. Most commonly, ursid are tall and thick, with strong muscles and hairy bodies. Wild ursid tend to be at least 2 meters tall, and their large claws are surprisingly nimble. Many ursid wear hides or thick woven smocks. Ursid tend to be fairly solitary. They are incredibly strong, and tend to be excellent hunters and trackers.
 
@@ -34,7 +34,7 @@ Your urside ancestry allows the following special abilities:
 >
 > Woodcraft
 
-### **Avian \(bird folk\)**
+## **Avian \(bird folk\)**
 
 Avian share characteristics with various birds. Most avian are slender, fast, and agile. Avian are some of the most varied of beastfolk, and share characteristics ranging from common sparrows to herons to parrots. Wild avian have a wide range of heights and sizes, though all of them have birdlike feet, and hands which also resemble their feet. All avian are capable of gliding short distances.
 
@@ -122,7 +122,7 @@ Your nomad ancestry allows the following special abilities:
 >
 > +1d6 to sneaking checks
 
-### **Ungulids \(cattle folk\)**
+## **Ungulids \(cattle folk\)**
 
 Ungulid share many similarities with domesticated and wild cattle, including cow- or buffalo-like features, primarily herbivorous diets, and a tendency to prefer large groups and strong leadership. Most ungulid are large and strong, and all ungulid have at least small horns. Legends of monstrous minotaurs were born of early contact with ungulid tribes, but most ungulid live on wide plains and enjoy pastoral lives.
 
@@ -148,7 +148,7 @@ Your ungulid ancestry allows the following special abilities:
 >
 > Strength in Numbers – As long as you are within 2m of an ally, you gain 1d6 to rolls to avoid damage.
 
-### **Canids \(dog folk\)**
+## **Canids \(dog folk\)**
 
 Canid share characteristics with domestic dogs in some cases, and wolves in others. They tend to be social, outgoing, and friendly. Many canid are excellent performers, strong athletes, and loyal companions. They tend to congregate in groups, and welcome others outside their circle. Canid tend to have excellent endurance and can naturally run for hours before becoming tired. Additionally, canid have incredibly sensitive noses and ears, allowing them to hear even the quietest whispers from long distances, and pick up trails that would be long cold for others.
 
@@ -170,7 +170,7 @@ Your canid ancestry allows the following special abilities:
 >
 > Wolf’s ear
 
-### **Insecta \(insect folk\)**
+## **Insecta \(insect folk\)**
 
 Insecta come in a variety of shapes and sizes, but the most common types are antfolk, apis, coleops, and mantes. Regardless of the type of insect they take after, insect folk all have tough carapaces, multifaceted eyes, and sensitive antennae which they use to detect faint smells, tastes, and pheromones.
 
@@ -188,8 +188,7 @@ Your inscta ancestry grants the following statistics:
 
 Your insecta ancestry allows the following special abilities:
 
-> Bloodhound’s Nose
-> Discerning Palate
+> Bloodhound’s Nose Discerning Palate
 
 **Formic \(ant folk\)**
 
@@ -231,7 +230,7 @@ As a mantes, you have the following abilities:
 >
 > 5m glide distance \(Wild and beastly mantes only.\)
 
-### **Reptilia \(reptile folk\)**
+## **Reptilia \(reptile folk\)**
 
 All reptile folk share scaly skins, slow metabolisms, and an affinity for warm climates. This is where the resemblances end for their four main types, however. Regardless of their background, all reptilia avoid cold climates, move slower in cold environments, and can withstand heat that would harm other folk. All reptilia have slow metabolisms, and only need to eat once per week.
 
@@ -303,7 +302,7 @@ As a viper ophid, you have the following ability:
 
 > Venomous Bite – Once every 24 hours you are able to use a bite melee attack which injects venom into the target’s bloodstream on a successful hit. The target takes 1d6 piercing damage and 1d6 poison damage on a successful hit, and 1d6 poison damage on each of your turns for 1d6 rounds thereafter. Creatures 1 or more size classes smaller than you take 2d6 poison damage on the initial hit. Creatures 1 or more size classes larger than you take half poison damage from your venomous bite.
 
-### **Testudine \(tortoise folk\)**
+## **Testudine \(tortoise folk\)**
 
 Testudine are the most laid-back of reptile folk in general, and prefer to take life as it comes to them. They do very well in warm environments, and often like to take meandering paths as they march slowly to their destinations. Despite their slow gait and easy-going nature, testudine also boast some of the strongest natural defenses of all the reptilia, and all folk in general.
 
@@ -317,7 +316,7 @@ As a tortoise testudine, you have the following abilities:
 >
 > Shell Retraction – You are able to pull your head and limbs fully inside your shell. +1d6 to checks against being hit by melee or ranged attacks.
 
-### **Testudine \(turtle folk\)**
+## **Testudine \(turtle folk\)**
 
 Turtle testudine are the faster, largely aquatic cousins of tortoise testudine, and do well in wet and swampy environs. In addition to a much faster swimming speed, turtle testudine can hold their breath longer than most any other beastfolk.
 
@@ -329,7 +328,7 @@ As a turtle testudine, you have the following abilities:
 >
 > Shell Retraction – You are able to pull your head and limbs fully inside your shell. +1d6 to checks against being hit by melee or ranged attacks.
 
-### **Araneae \(spider folk\)**
+## **Araneae \(spider folk\)**
 
 Most araneae are unfortunately maligned as being ugly or monstrous, though long experience has taught most of them that this is only a knee-jerk reaction. Usually soft-spoken and asocial, araneae tend to prefer the company of quiet individuals, and often take a liking to gnomes and their clean, subterranean dwellings.
 
